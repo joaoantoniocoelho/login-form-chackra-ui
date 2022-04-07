@@ -1,7 +1,18 @@
-# Login Form with Chackra UI
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+# Login Form with Chakra UI
 
-Simple login form using JavaScript, React, Chackra UI. The page also have light/dark mode.
+Login Form example using Chakra UI for React.
+> <a href="https://pokeapi.co/"> Chakra UI Documentation. </a>
+
+  
+🚀 To run, you need to:
+```
+  > Clone this repository
+  
+  > yarn install
+  
+  > yarn start
+```
+> ❓ To install yarn, run this on terminal: ```npm install --global yarn```
 
 ## Screenshot
 <img src="assets/screenshots/example.png" alt="app screenshot">
