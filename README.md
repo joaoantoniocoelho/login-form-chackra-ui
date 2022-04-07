@@ -1,7 +1,7 @@
 # Login Form with Chakra UI
 
 Login Form example using Chakra UI for React.
-> <a href="https://pokeapi.co/"> Chakra UI Documentation. </a>
+> <a href="https://chakra-ui.com/guides/first-steps"> Chakra UI Documentation. </a>
 
   
 🚀 To run, you need to:
